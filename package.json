@@ -1,9 +1,9 @@
 {
   "name": "@agrezo/google-adsense",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Google Adsense Module for Nuxt.js",
   "license": "MIT",
-  "repository": "https://github.com/nuxt-community/adsense-module",
+  "repository": "https://github.com/agrezo/google-adsense-module",
   "main": "lib/module.js",
   "publishConfig": {
     "access": "public"
