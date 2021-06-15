@@ -11,7 +11,7 @@
   "scripts": {
     "lint": "eslint lib",
     "test": "yarn lint",
-    "release": "standard-version && git push --follow-tags && npm publish"
+    "release": "standard-version && git push --follow-tags && yarn publish"
   },
   "eslintIgnore": [
     "*.template.*"
